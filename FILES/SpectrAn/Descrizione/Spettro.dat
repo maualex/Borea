@@ -1,0 +1,14 @@
+ =   20 
+ =   1 
+ =   1 // tipo di scala delle frequenze (1 log, 0 decimale) 
+ =   0.000050 
+ =   0.000000 
+ =   1 // num periodogrammi 
+ =   1 // eliminazione della media  (0 no, 1 sì  2  eliminazione del trend 3 el.della parabola) 
+ =   1 // tracciata tra 0 e fmax (fc/2) senza ripiegamento 
+ =   1 // finestra di media (1 gaussiana 0 rettangolo)  
+ =   1 // Finestra variabile 1  costante 0 
+ =   0.200000 // semibanda finestra (dev. standard per gaussiana) in campioni di frequenza 
+ =   3.500000 // larghezza effettiva della gaussiana (>0) in multiplo della semibanda 
+ =   0.500000 // esponente  della lunghezza finestra 
+ =   0 = 1 = 1  

@@ -1,0 +1,55 @@
+
+ Inizio lettura 
+  ---- Densità spettrale (DS) ------ 
+  Parametri 
+  Numero di periodogrammi  1  
+  Numero di campioni [bit] 20  
+						totale 1048576  
+						semi (tracciato DS) 524288  
+  Numero di variabili  1  
+	Variabile 0  indice 0  scala 1.000000e+000  
+  Scala delle frequenze  (0=dec, 1=log) 1  
+	 Divisione minima frequenze 1.907349e-002  
+	 Unità di tempo 0.000050  
+	 Intervallo iniziale [s]  0.000000 passi 1 
+	 Indici 
+		Eliminazione media (no =0, sì =1) 1  
+		DS unilatera (no =0, sì =1) 1  
+	 Finestra 
+		Variabile =1, Costante =0  1  
+		Gaussiana =1, Rettangolare =0  1  
+		Semibanda (numero di campioni) 2.000000e-001  
+		Larghezza per Guassiana (multiplo semibanda) 3.500000e+000  
+		Esponente per Larghezza  5.000000e-001  
+ Fine Parametri 
+
+  Finestra Gaussiana: semilarghezza min	=7.000000e-001  
+   Finestra Gaussiana: semilarghezza max 716 totale 1433 
+   Fine finestra 
+
+--- Inizio lettura e calcolo spettro  --- 
+  
+ Numero di variabili archivio incluso tempo 2 
+  Saltati 1  dati 
+ Variabile 0 
+ primo dato 0.000000e+000 
+ ultimo dato 6.147268e-002 
+  Durata totale 1048576 semi 524288
+   Variabile  0 media totale 1.821278e-002
+   --- Inizio calcolo spettro periodo 0 --- 
+  Totale dati 1048576 
+ Fine calcolo spettro grezzo 
+ 
+ Media variabile 0 =  2.593222e-003 
+ Dispersione variabile	[0]	=1.817530e-001 
+ Errore q.m.  variabile 0 =  1.817715e-001 
+ 
+ Spettro bianco 
+ Variabile 0  disp = 1.817530e-001 DS unil. stimata  1.817530e-003  
+ 
+ Scale (radice) Densità Spettrale Unilatera
+ Variabile 0 scala (radice) DS 9.765625e-006 log -5.010300e+001
+ 				 scala DS 9.536743e-011 log -1.002060e+002
+  Var 0 radice DS per f=0  7.466096e-002  log -1.126906e+001 
+  Spettro - variabile  0 ds 1.973481e-001  verifica 1.973481e-001
+(null) 

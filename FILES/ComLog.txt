@@ -1,0 +1,2 @@
+Set to COM Port : COM7 , Baud Rate :  38400 
+COM Port : COM7 is not available
